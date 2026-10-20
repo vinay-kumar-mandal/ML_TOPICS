@@ -1,10 +1,12 @@
-# 🚀 Hands-On Machine Learning Roadmap & Blueprints
+#  Hands-On Machine Learning Roadmap & Blueprints
+<!-- प्रोजेक्ट के स्टेटस और सोशल बैज (फिक्स किया हुआ कोड) -->
 [![Python Version](https://shields.io)](https://python.org)
 [![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
 [![Jupyter Notebook](https://shields.io)](https://jupyter.org)
-[![Open Source Love](https://frapsoft.org)](https://github.com)
-[![Contributions Welcome](https://shields.io)](https://github.com)
+[![Open Source Love](https://shields.io)](https://github.com)
+[![Contributions Welcome](https://shields.io)](https://github.com/issues)
 [![License: MIT](https://shields.io)](https://opensource.org)
+
 
 
 Welcome to the ultimate Machine Learning blueprint repository! This project serves as a comprehensive codebase, template center, and notebook journal built while mastering **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron**.
