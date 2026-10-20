@@ -1,11 +1,13 @@
 #  Hands-On Machine Learning Roadmap & Blueprints
-<!-- प्रोजेक्ट के स्टेटस और सोशल बैज (फिक्स किया हुआ कोड) -->
-[![Python Version](https://shields.io)](https://python.org)
-[![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
-[![Jupyter Notebook](https://shields.io)](https://jupyter.org)
-[![Open Source Love](https://shields.io)](https://github.com)
-[![Contributions Welcome](https://shields.io)](https://github.com/issues)
-[![License: MIT](https://shields.io)](https://opensource.org)
+
+<p align="left">
+  <img src="https://shields.io" alt="Python Version" />
+  <img src="https://shields.io" alt="Scikit Learn" />
+  <img src="https://shields.io" alt="Jupyter Notebook" />
+  <img src="https://shields.io" alt="Open Source" />
+  <img src="https://shields.io" alt="Contributions Welcome" />
+  <img src="https://shields.io" alt="License MIT" />
+</p>
 
 
 
